@@ -1,3 +1,7 @@
 Hi!
 Hi to you too!
 Hi to you three!
+<<<<<<< Updated upstream
+=======
+Hi four!
+>>>>>>> Stashed changes
