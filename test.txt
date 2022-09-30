@@ -1,2 +1,7 @@
 Hi!
+<<<<<<< Updated upstream
 This is a second test.
+=======
+Hi to you too!
+Hi to you three!
+>>>>>>> Stashed changes
